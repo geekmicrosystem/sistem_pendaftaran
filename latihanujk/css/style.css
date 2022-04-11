@@ -1,0 +1,15 @@
+label, .card-header {
+    font-weight: bold;
+}
+
+body {
+    background-image: url(../img/email-pattern.png);
+}
+
+#salah {
+    color: red;
+}
+
+.container-fluid {
+    background-color: white;
+}
